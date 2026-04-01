@@ -65,6 +65,7 @@ body {
     border-radius: 1rem;
     color: var(--secondaryColor);
     background-color: var(--textColor);
+    border: none
 }
 
 .secondary-button {
@@ -76,6 +77,7 @@ body {
     border-radius: 1rem;
     color: var(--textColor);
     background-color: transparent;
+    border: none;
 }
 
 
