@@ -141,7 +141,7 @@ index.html
 
 ## 📬 Contact
 
-* 📧 Email: [dawoodsaqlain@gmail.com](mailto:dawoodsaqlain@gmail.com)
+* 📧 Email: [dawoodsaqlain194@gmail.com](mailto:dawoodsaqlain@gmail.com)
 * 📞 Phone: +92 316 5026 046
 
 ---
@@ -155,7 +155,7 @@ This project is open-source and available under the **MIT License**.
 ## 🙌 Author
 
 **Dawood**
-Frontend Developer | UI Enthusiast
+Frontend Developer | Web Developer
 
 ---
 
