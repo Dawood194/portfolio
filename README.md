@@ -11,10 +11,8 @@ A modern, responsive **personal portfolio website** built using HTML and CSS. Th
 
 ## 🌐 Live Demo
 
-> *(Add your deployed link here, e.g., GitHub Pages or Netlify)*
-
 ```
-https://your-portfolio-link.com
+dawood194.github.io/portfolio/
 ```
 
 ---
