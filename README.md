@@ -11,21 +11,18 @@ A modern, responsive **personal portfolio website** built using HTML and CSS. Th
 
 ## 🌐 Live Demo
 
-> *(Add your deployed link here, e.g., GitHub Pages or Netlify)*
-
 ```
-https://your-portfolio-link.com
+dawood194.github.io/portfolio/
 ```
 
 ---
 
 ## 📸 Preview
 
-> *(Add screenshots here)*
+![My Portfolio Site](./assets/images/preview.png)
+![My Portfolio Site](./assets/images/preview2.png)
+![My Portfolio Site](./assets/images/preview3.png)
 
-```
-assets/images/preview.png
-```
 
 ---
 
@@ -108,7 +105,7 @@ To run this project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/Dawood194/portfolio.git
 
 # Open folder
 cd portfolio
@@ -148,7 +145,7 @@ index.html
 
 ## 📄 License
 
-This project is open-source and available under the **MIT License**.
+This project is open-source
 
 ---
 
