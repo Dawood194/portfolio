@@ -573,8 +573,8 @@ footer .contact-info .phone-number {
     .hero-content figure img {
         justify-content: flex-end;
         position: static;
-        height: 100%;
         width: auto;
+
     }
 
     .services-container {
@@ -609,6 +609,10 @@ footer .contact-info .phone-number {
         min-width: 15rem;
         padding: 1.6rem 0rem;
         gap: 1.6rem;
+    }
+
+    .skill-icon img {
+        height: 4rem;
     }
 
     .skill-title {
